@@ -4,3 +4,4 @@ Gemaakt in Nieuwpoort Hotel Sandeshoves
 
 Wie wordt er lid van de leon haat groep?
 WOUT hou je bek, ik eis 20euro voor mentale schade
+Eerste lid is een feit, wat is het lidgeld?
