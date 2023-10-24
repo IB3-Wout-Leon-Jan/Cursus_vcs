@@ -1,0 +1,3 @@
+E:/School/3IIW/Project software engineering/Cursus_vcs/testProjectWout/cmake-build-debug/CMakeFiles/testProjectWout.dir
+E:/School/3IIW/Project software engineering/Cursus_vcs/testProjectWout/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/School/3IIW/Project software engineering/Cursus_vcs/testProjectWout/cmake-build-debug/CMakeFiles/rebuild_cache.dir
